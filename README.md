@@ -1,27 +1,22 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package dark_image_processing is used to:
+	Processing:
+		- Histrogram matching, Structural similarity and Resize Images
+	Utils:
+		- Read, Save and Plot Image	
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+pip install dark_image_processing
 ```
 
 ## Author
-My_name
+Luis Ramires
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
